@@ -1,8 +1,8 @@
 # SendData
 this package allows you to send custom data to system32
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="150" hight="150">
-<img src="https://raw.githubusercontent.com/DaBread-os/breh/main/cursed%20mobile%20copy%202.png" alt="cOSD" width="150" hight="150">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="150" hight="150" style="display: inline-block;">
+<img src="https://raw.githubusercontent.com/DaBread-os/breh/main/cursed%20mobile%20copy%202.png" alt="cOSD" width="150" hight="150" style="display: inline-block;">
 
 
 <br>
