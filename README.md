@@ -17,7 +17,7 @@ this package allows you to send custom data to system32
 </ul>
 <br>
 <br>
-<h3>2.) connecting language,
+<h3>2.) connecting language,</h3>
 <ul>
 	<li>Risk++, run file called cpp_connect.exe</li>
 	<li>Clang++, add the line of code "const clang = request("ClangLib(:C")"</li>
