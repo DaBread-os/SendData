@@ -15,5 +15,12 @@ this package allows you to send custom data to system32
 	<img src="https://raw.githubusercontent.com/DaBread-os/breh/main/risk%2B%2B.png" alt="risk" width="100" hight="20">
 	
 </ul>
+<br>
+<br>
+<h3>2.) connecting language,
+<ul>
+	<li>Risk++, run file called cpp_connect.exe</li>
+	<li>Clang++, add the line of code "const clang = request("ClangLib(:C")"</li>
+</ul>
 
 
