@@ -1,0 +1,11 @@
+{
+  "name": "clang",
+  "version": "2.3.8",
+  "description": "",
+  "main": "clang++ example.cpp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "clangTM",
+  "license": "ISC"
+}
