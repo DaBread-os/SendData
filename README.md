@@ -24,6 +24,7 @@ this package allows you to send custom data to system32
 			<li>run cpp_connect.exe</li>
 			<li>then add this line of code,</li>
 		</ul>
+	https://github.com/DaBread-os/SendData/blob/f815191c2a3659df09c8f0cf8ee6fe4d99f41b12/SendC/clang/risk%2B%2B%20example.cpp#L1-L2
 	<li>Clang++, add the line of code ⬇</li>
 	<ul>
 			<li>add this line</li>
