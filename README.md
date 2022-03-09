@@ -11,8 +11,7 @@ this package allows you to send custom data to system32
 	<li>Clang++</li>
 	<img src="https://raw.githubusercontent.com/DaBread-os/breh/main/clang%2B%2B.png" alt="clang" width="100" hight="20">
 	
-	<li>Risk++</li>
-	<img src="https://raw.githubusercontent.com/DaBread-os/breh/main/risk%2B%2B.png" alt="risk" width="100" hight="20">
+	
 	
 </ul>
 <br>
