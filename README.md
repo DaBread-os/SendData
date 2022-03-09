@@ -32,10 +32,3 @@ this package allows you to send custom data to system32
 </ul>
 
 
-<h3>Clang++</h3>
-<h5>https://github.com/llvm/llvm-project</h5>
-
-<h3>Risk++</h3>
-<h5>https://github.com/DaBread-os/risk-plus-plus</h5>
-
-
